@@ -12,3 +12,8 @@ Backend Repo: https://github.com/WeiLong27/geronimo-backend.git
 6. Search users in explore section
 7. Add bookmarks
 8. Dark mode
+
+# Upcoming Features
+
+1. Notifications on followed users posts
+2. Chatbox functionality, allow users to chat with one another
